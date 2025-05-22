@@ -8,4 +8,4 @@ Article code 1: 张超东，朱涛，汪東方等.两个园林绿化树种的光
 
 Article code 2: 朱涛，汪東方，陈光平等.氮添加对柳杉人工林土壤异养呼吸组分的影响[J].中南林业科技大学学报，2025，45(2): 194-201.
 
-Article code 3: Zhu T，Xia G W，Yuan Y S，et al. Nitrogen addition promotes soil carbon sequestration and alters carbon pool stability by affecting particulate organic carbon in a karst plantation[J]. Forests, 2025, 16(5): 730.
+Article code 3: https://doi.org/10.3390/f16050730
