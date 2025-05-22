@@ -1,2 +1,6 @@
 # R language paper code and report
 论文代码/报告/汇报
+Thesis code 1: 朱涛.柳杉人工林土壤有机碳库及土壤呼吸对模拟氮沉降的响应[D].贵州民族大学，2024.
+Article code 1: 张超东，朱涛，汪東方等.两个园林绿化树种的光合特性研究[J].内蒙古林业调查设计，2025，48(02): 79-85.
+Article code 2: 朱涛，汪東方，陈光平等.氮添加对柳杉人工林土壤异养呼吸组分的影响[J].中南林业科技大学学报，2025，45(2): 194-201.
+Article code 3: Zhu T，Xia G W，Yuan Y S，et al. Nitrogen addition promotes soil carbon sequestration and alters carbon pool stability by affecting particulate organic carbon in a karst plantation[J]. Forests, 2025, 16(5): 730.
